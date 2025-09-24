@@ -13,7 +13,7 @@ Neste projeto, o desafio é construir este cartão de visualização de blog e d
 <img src="./design/destkop-design.jpg" alt="Preview" width="600" />
 
 ## Visualização 
-Acesse o resultado final do desafio clicando em [Visualização do cartão do blog](https://front-end-mentor-cartao-blog.vercel.app)
+Acesse o resultado final do desafio clicando em [Visualização do cartão do blog](https://front-end-mentor-perfil-de-links-so.vercel.app)
 
 ## Tecnologias Usadas
 - Html
